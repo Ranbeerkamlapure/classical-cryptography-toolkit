@@ -1,0 +1,10 @@
+Design and Development of a Classical Cryptography Toolkit
+Course: Network Security (Final Year ECE 2026-27)
+
+Classical cryptography laid the foundational principles of confidentiality and obfuscation in early communications.
+Substitution ciphers (Caesar, Monoalphabetic, Playfair, Hill) replace characters or blocks with alternate representations.
+Polyalphabetic ciphers (Vigenere, One-Time Pad) employ multiple substitution alphabets or pseudorandom keys to flatten single-frequency analysis.
+Transposition ciphers (Rail Fence, Columnar Transposition) rearrange the geometric positions of letters without altering character values.
+
+Sample secret message:
+"The security of a cryptosystem must not depend upon keeping the algorithm secret; it must depend solely on keeping the key secret." - Auguste Kerckhoffs, 1883.
